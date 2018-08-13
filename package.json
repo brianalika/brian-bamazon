@@ -1,0 +1,24 @@
+{
+  "name": "brian-bamazon",
+  "version": "1.0.0",
+  "description": "This app takes in orders from customers and depletes stock from the store's inventory using MySQL.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianalika/brian-bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianalika/brian-bamazon/issues"
+  },
+  "homepage": "https://github.com/brianalika/brian-bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {}
+}
